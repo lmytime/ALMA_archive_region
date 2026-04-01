@@ -12,8 +12,8 @@ echo "========================================================"
 # We use a heredoc (<<EOF) to automatically feed the inputs 
 # to the interactive prompt of search_alma.py
 python search_alma.py <<EOF
-53.15495833333333
--27.815844444444444
+53.0829375
+-27.8556305
 0.0001
 EOF
 
